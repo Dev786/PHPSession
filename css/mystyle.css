@@ -1,0 +1,11 @@
+.form_custom{
+    width: 40%;
+    height: 50%;
+    position: fixed;
+    top: 25%;
+    left: 30%;
+}
+
+body{
+    background-color: #6BBAA7;
+}
